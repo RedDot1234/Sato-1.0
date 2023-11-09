@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - enemyLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3809402409
+    locked: 0
+  - name: BG 2
+    uniqueID: 1514173707
+    locked: 0
+  - name: Player
+    uniqueID: 1403077531
+    locked: 0
+  - name: Frente
+    uniqueID: 1756833629
+    locked: 0
+  - name: Frente2
+    uniqueID: 2371343497
+    locked: 0
+  - name: acompanhante player
+    uniqueID: 3046238645
+    locked: 0
